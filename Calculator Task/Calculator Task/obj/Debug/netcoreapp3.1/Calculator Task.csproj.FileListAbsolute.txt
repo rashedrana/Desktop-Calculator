@@ -1,0 +1,16 @@
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.csprojAssemblyReference.cache
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator_Task.Calculator.resources
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.csproj.GenerateResource.cache
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.AssemblyInfoInputs.cache
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.AssemblyInfo.cs
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.csproj.CoreCompileInputs.cache
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\bin\Debug\netcoreapp3.1\Calculator Task.exe
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\bin\Debug\netcoreapp3.1\Calculator Task.deps.json
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\bin\Debug\netcoreapp3.1\Calculator Task.runtimeconfig.json
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\bin\Debug\netcoreapp3.1\Calculator Task.runtimeconfig.dev.json
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\bin\Debug\netcoreapp3.1\Calculator Task.dll
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\bin\Debug\netcoreapp3.1\Calculator Task.pdb
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.dll
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.pdb
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator Task.genruntimeconfig.cache
+C:\Users\rashe\source\repos\Calculator Task\Calculator Task\obj\Debug\netcoreapp3.1\Calculator_Task.Properties.Resources.resources
